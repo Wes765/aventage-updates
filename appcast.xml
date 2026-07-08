@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Aventage</title>
+        <item>
+            <title>0.1.1</title>
+            <pubDate>Wed, 08 Jul 2026 16:01:04 -0600</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<ul>
+<li>Initial Sparkle auto-update release.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/Wes765/aventage-updates/releases/download/updates/Aventage-0.1.1.zip" length="1487431" type="application/octet-stream" sparkle:edSignature="cHwoSHiL5Q+D81vW59+DjNCioi65HiviV/l1M/qHy3H0e0k/VQpJNUSa4HYA/8bmF9AQm7lf1360o+SGZxtuDw=="/>
+        </item>
+    </channel>
+</rss>
